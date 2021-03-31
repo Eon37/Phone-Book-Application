@@ -1,5 +1,5 @@
-#Phone Book Application
-####Инструкция по запуску
+# Phone Book Application
+#### Инструкция по запуску
 
 Для запуска jar файла (находится в ./jar): java -jar ./jar/Phone_Book-0.0.1-SNAPSHOT.jar
 
